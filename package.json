@@ -1,0 +1,41 @@
+{
+  "name": "ddb-client",
+  "description": "Client for the German digital library (DDB / Deutsche digitale Bibliothek) API",
+  "version": "0.0.0",
+  "keywords": [
+  	"ddb",
+  	"deutsche",
+  	"digitale",
+  	"bibliothek",
+  	"europeana",
+  	"german",
+  	"digital",
+  	"library"
+  ],
+  "author": "Julius Tens <mail@juliustens.de>",
+  "homepage": "https://github.com/juliuste/ddb-client",
+  "repository": "juliuste/ddb-client",
+  "bugs": "https://github.com/juliuste/ddb-client/issues",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "helpers.js"
+  ],
+  "dependencies": {
+    "clean-deep": "^3.0.0",
+    "isomorphic-fetch": "^2.2.1",
+    "lodash.omit": "^4.5.0",
+    "qs": "^6.4.0"
+  },
+  "devDependencies": {
+    "tape": "^4.6.3"
+  },
+  "scripts": {
+    "test": "node test.js",
+    "prepublish": "npm test"
+  },
+  "engines": {
+    "node": ">=6"
+  },
+  "license": "MIT"
+}
