@@ -3,14 +3,14 @@
   "description": "Client for the German digital library (DDB / Deutsche digitale Bibliothek) API",
   "version": "0.0.0",
   "keywords": [
-  	"ddb",
-  	"deutsche",
-  	"digitale",
-  	"bibliothek",
-  	"europeana",
-  	"german",
-  	"digital",
-  	"library"
+    "ddb",
+    "deutsche",
+    "digitale",
+    "bibliothek",
+    "europeana",
+    "german",
+    "digital",
+    "library"
   ],
   "author": "Julius Tens <mail@juliustens.de>",
   "homepage": "https://github.com/juliuste/ddb-client",
@@ -28,6 +28,7 @@
     "qs": "^6.4.0"
   },
   "devDependencies": {
+    "config": "^1.26.1",
     "tape": "^4.6.3"
   },
   "scripts": {
