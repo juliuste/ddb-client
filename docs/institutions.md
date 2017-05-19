@@ -1,4 +1,4 @@
-# `institutions(query, [opt])`
+# `institutions([opt])`
 
 Returns a `Promise`. `opt` is an Object that can contain the following key(s):
 
