@@ -31,6 +31,10 @@ Following the [official API docs](https://api.deutsche-digitale-bibliothek.de/do
 - [`items(itemID)`](docs/items.md)
 - [`search(query, [opt])`](docs/search.md)
 
+## See also
+
+- [europeana](https://github.com/fvdm/nodejs-europeana) - Inofficial Europeana API client
+
 ## Contributing
 
 If you found a bug, want to propose a feature or feel the urge to complain about your life, feel free to visit [the issues page](https://github.com/juliuste/ddb-client/issues).
