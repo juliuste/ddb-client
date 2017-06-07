@@ -1,5 +1,7 @@
 # ddb-client
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/juliuste/ddb-client.svg)](https://greenkeeper.io/)
+
 JavaScript client for the [German digital libary (DDB / Deutsche digitale Bibliothek) API](https://api.deutsche-digitale-bibliothek.de/).
 
 [![npm version](https://img.shields.io/npm/v/ddb-client.svg)](https://www.npmjs.com/package/ddb-client)
