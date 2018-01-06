@@ -4,6 +4,7 @@ JavaScript client for the [German digital libary (DDB / Deutsche digitale Biblio
 
 [![npm version](https://img.shields.io/npm/v/ddb-client.svg)](https://www.npmjs.com/package/ddb-client)
 [![Build Status](https://travis-ci.org/juliuste/ddb-client.svg?branch=master)](https://travis-ci.org/juliuste/ddb-client)
+[![Greenkeeper badge](https://badges.greenkeeper.io/juliuste/ddb-client.svg)](https://greenkeeper.io/)
 [![dependency status](https://img.shields.io/david/juliuste/ddb-client.svg)](https://david-dm.org/juliuste/ddb-client)
 [![dev dependency status](https://img.shields.io/david/dev/juliuste/ddb-client.svg)](https://david-dm.org/juliuste/ddb-client#info=devDependencies)
 [![license](https://img.shields.io/github/license/juliuste/ddb-client.svg?style=flat)](LICENSE)
