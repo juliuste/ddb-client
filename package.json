@@ -28,7 +28,7 @@
     "qs": "^6.4.0"
   },
   "devDependencies": {
-    "config": "^1.26.1",
+    "config": "^1.31.0",
     "tape": "^4.6.3"
   },
   "scripts": {
